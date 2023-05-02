@@ -55,7 +55,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 ## Screenshot:
 <br>
 <p align="center">
-<img width="95%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fryuko-matoi&psig=AOvVaw2nS6SpgqPtDt7tOPxLjh6h&ust=1683116112041000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjxyaTO1v4CFQAAAAAdAAAAABAk"\>
+<img width="95%" src="https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Ry%C5%ABko_Matoi_close-up.png/revision/latest/scale-to-width-down/1200?cb=20140211124359"\>
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
