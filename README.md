@@ -22,6 +22,8 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 ## Test On:
 - Termux
 - Mi Note 9 pro
+- Samsung Galaxy A22
+- Virtual Box 7.0
 
 ## INSTALLATION [Termux]
 
