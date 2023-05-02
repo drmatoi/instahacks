@@ -1,5 +1,5 @@
 ## About tool
-All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter)
+All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter) / Based pn https://github.com/IncredibleHacker/insta-hack updated by m4t01
 
 ## Features:
 
@@ -53,7 +53,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 ## Screenshot:
 <br>
 <p align="center">
-<img width="95%" src="https://github.com/IncredibleHacker/insta-hack/blob/main/Ig_information_gathering/Core_files/IMG_20210725_122737.jpg"\>
+<img width="95%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fryuko-matoi&psig=AOvVaw2nS6SpgqPtDt7tOPxLjh6h&ust=1683116112041000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjxyaTO1v4CFQAAAAAdAAAAABAk"\>
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
