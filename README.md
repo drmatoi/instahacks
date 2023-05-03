@@ -64,7 +64,13 @@ type
 * `cd instahacks`
 * `bash insta-hack.sh`
 <br>
-## I will add this to the bash script soon!
+I will add this to the bash script soon!
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
+
+<br>
+Socials:
+* `Instagram: @wecrywiki`
+* `Telegram: @mrmatoi`
+
