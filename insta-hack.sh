@@ -9,7 +9,7 @@ Blue="\033[1;34m"        # Blue
 Purple="\033[1;35m"      # Purple
 Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
-clear
+
 echo -e "$Purple Please wait 20 seconds and read this Info  "
 echo "[En] This tool does not work 100% as it should at the moment, use it at your own risk. I'm working on getting everything working again. Yours sincerely, M4T01\e[1;34m" 
 echo -e "$Red [De] Im Moment funktioniert dieses Tool nicht zu 100%, ich arbeite daran es wieder funktionsfähig zu machen, danke für das Verständnis!  LG M4T01 \e[1;31m"
@@ -64,7 +64,7 @@ echo " "
     read ch
    if [ $ch -eq 1 ];then
         cd $HOME
-        cd insta-hack
+        cd instahacks
         cd Ig_information_gathering
         bash start.sh
 
@@ -72,7 +72,7 @@ echo " "
     elif [ $ch -eq 2 ];then 
          cd $HOME
          git clone https://github.com/noob-hackers/ighack
-         cd $HOME/insta-hack/ig_brute_force
+         cd $HOME/instahacks/ig_brute_force
          bash setup
          bash ighack.sh
         
