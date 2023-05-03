@@ -71,6 +71,7 @@ I will add this to the bash script soon!
 
 <br>
 Socials:
+<br>
 * `Instagram: @wecrywiki`
 * `Telegram: @mrmatoi`
 
