@@ -92,7 +92,13 @@ echo " "
         echo -e "\e[1;34m Telegram: t.me/moddingtool"
 echo -e "\e[1;34m Telegram: t.me/mrmatoi"
         cd $HOME
-        
+
+        exit
+   elif [ $ch -eq reset ];then
+rm -rf insta-hack
+        git clone https://github.com/drmatoi/instahacks
+        cd insta-hack
+        bash insta-hack.sh
      
         exit
    elif [ $ch -eq 6 ];then 
