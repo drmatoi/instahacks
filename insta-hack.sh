@@ -10,8 +10,8 @@ Purple="\033[1;35m"      # Purple
 Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
-echo "Thanks for using m4t01's collection!"
-sleep 5.0
+echo -e "Thanks for using m4t01's collection!"
+sleep 5
 clear
 apt-get update
 apt-get upgrade
@@ -41,10 +41,10 @@ echo " "
 echo -e " $Green     |---------------------------------------------------------------------|"
 echo -e " $Green     ||----------------------------$Cyan [List] $Green---------------------------||"
 echo -e " $Green     ||                                                                   ||"
-echo -e " $Green     ||             $Purple==>$Yellow[1] Insta information gathering$Green                    ||"
-echo -e " $Green     ||             $Purple==>️$Yellow[2] Insta brute force attack$Green                       ||"
-echo -e " $Green     ||             $Purple==>$Yellow[3] Insta auto reporter$Green                            ||"
-echo -e " $Green     ||             $Purple==>$Yellow[4] Insta phishing page(coming soon)$Green               ||"
+echo -e " $Green     ||             $Purple==>$Yellow[1] IG information gathering$Green                    ||"
+echo -e " $Green     ||             $Purple==>️$Yellow[2] IG brute force attack$Green                       ||"
+echo -e " $Green     ||             $Purple==>$Yellow[3] IG auto reporter$Green                            ||"
+echo -e " $Green     ||             $Purple==>$Yellow[4] IG phishing ( soon)$Green               ||"
 echo -e " $Green     ||             $Purple==>$Yellow[5] Telegram Links$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[6] Remove scripts$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[7] About$Green                                          ||"
@@ -91,16 +91,15 @@ echo -e "\e[1;34m Libary: t.me/wecrywiki"
 
         exit
    elif [ $ch -eq 999];then
-rm -rf insta-hack
+ rm -rf instahacks
         git clone https://github.com/drmatoi/instahacks
-        cd insta-hack
+        cd instahacks
         bash insta-hack.sh
-cd $HOME
      
         exit
    elif [ $ch -eq 6 ];then 
         cd $HOME
-        rm -rf insta-hack
+        rm -rf instahacks
         
         exit
    elif [ $ch -eq 7 ];then
