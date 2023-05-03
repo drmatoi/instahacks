@@ -71,7 +71,7 @@ I will add this to the bash script soon!
 
 <br>
 Socials:
-<br
+<br>
 Instagram: @wecrywiki
 Telegram: @mrmatoi
 
