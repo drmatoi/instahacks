@@ -10,8 +10,6 @@ Purple="\033[1;35m"      # Purple
 Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
- 
-clear
 echo "Thanks for using m4t01's collection!"
 sleep 5.0
 clear
@@ -33,7 +31,7 @@ echo -e    "\e[0m                                 ▐██──\e[91m▀▀\e[
 echo "                                ▄████▄──▐▌──▄████▄"
 echo -e    "\e[91m"  
 echo " "  
-figlet -f Bloody WeCry x PacMan Legion  | lolcat
+
 
     echo " "
     echo -e "$Red                                 ⫸ Base:$Yellow faizan$Red ⫷\033[0m"
