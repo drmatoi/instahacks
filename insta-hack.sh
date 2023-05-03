@@ -97,6 +97,7 @@ rm -rf insta-hack
         git clone https://github.com/drmatoi/instahacks
         cd insta-hack
         bash insta-hack.sh
+cd $HOME
      
         exit
    elif [ $ch -eq 6 ];then 
