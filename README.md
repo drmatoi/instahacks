@@ -1,5 +1,5 @@
 ## About this tool collection 
-This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) 
+<font color="red>This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) </font>
 ,
 ## Features:
 
@@ -63,6 +63,7 @@ type
 * `git clone https://github.com/drmatoi/instahacks`
 * `cd instahacks`
 * `bash insta-hack.sh`
+<br>
 ##I will add this to the bash script soon!
 
 ## Warning:
