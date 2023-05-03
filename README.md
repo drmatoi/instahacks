@@ -1,13 +1,13 @@
-## About tool
-All in one Instagram hacking tool available (Insta information gathering, Insta brute force, Insta account auto repoter) / Based pn https://github.com/IncredibleHacker/insta-hack updated by m4t01
-
+## About this tool collection 
+This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) 
+,
 ## Features:
 
 - Insta information gathering
 - Insta brute force attack
 - Insta auto repoter
-- Update script
 - Remove script
+- WeCry Telegram List
 
 ## Requirements
 - Data connection
@@ -16,7 +16,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 - No Root
 
 ## Available On
-- Termux
+- Termux (tested on 04.05.23)
 - Kali Linux
 
 ## Test On:
@@ -34,7 +34,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `pkg install git`
 * `git clone https://github.com/drmatoi/instahacks`
 * `ls`
-* `cd insta-hack`
+* `cd instahacks`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `bash setup.sh`
@@ -47,22 +47,23 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `sudo apt install git`
 * `git clone https://github.com/drmatoi/instahacks`
 * `ls`
-* `cd insta-hack`
+* `cd instahacks`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash insta-hack.sh`
 
-## Screenshot:
+## Collection by m4t01 / Mr.Matoi:
 <br>
 <p align="center">
 <img width="95%" src="https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Ry%C5%ABko_Matoi_close-up.png/revision/latest/scale-to-width-down/1200?cb=20140211124359"\>
 
-##Need to Update/Reset?
+##Need to Update/Reset the Tool.
 type
-"rm -rf instahacks
-        git clone https://github.com/drmatoi/instahacks
-        cd instahacks
-        bash insta-hack.sh"
+* 'rm -rf instahacks'
+       *' git clone https://github.com/drmatoi/instahacks'
+        *'cd instahacks'
+       *' bash insta-hack.sh'
+I will add this to the bash script soon!
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
