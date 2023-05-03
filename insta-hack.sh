@@ -10,12 +10,11 @@ Purple="\033[1;35m"      # Purple
 Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
-echo "Purple Please wait 20 seconds and read this Info"
-echo "[En] This tool does not work 100% as it should at the moment, use it at your own risk. I'm working on getting everything working again. Yours sincerely, M4T01\e[1;34m" 
-echo "[De] Im Moment funktioniert dieses Tool nicht zu 100%, ich arbeite daran es wieder funktionsfähig zu machen, danke für das Verständnis! LG M4T01"
+echo "Purple Please wait 20 seconds and read this Info
+[En] This tool does not work 100% as it should at the moment, use it at your own risk. I'm working on getting everything working again. Yours sincerely, M4T01 [De] Im Moment funktioniert dieses Tool nicht zu 100%, ich arbeite daran es wieder funktionsfähig zu machen, danke für das Verständnis! LG M4T01"
 sleep 25 
 clear
-echo "Thanks!Have Fun!"
+echo "Thanks for using m4t01's collection!"
 sleep 5
 clear
 apt-get update
