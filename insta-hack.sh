@@ -90,7 +90,7 @@ echo -e "\e[1;34m Libary: t.me/wecrywiki"
         cd $HOME
 
         exit
-   elif [ $ch -eq 999];then
+   elif [ $ch -eq 999 ];then
  rm -rf instahacks
         git clone https://github.com/drmatoi/instahacks
         cd instahacks
