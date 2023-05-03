@@ -10,19 +10,17 @@ Purple="\033[1;35m"      # Purple
 Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
-echo "Purple Please wait 20 seconds and read this Info
-[En] This tool does not work 100% as it should at the moment, use it at your own risk. I'm working on getting everything working again. Yours sincerely, M4T01 [De] Im Moment funktioniert dieses Tool nicht zu 100%, ich arbeite daran es wieder funktionsfähig zu machen, danke für das Verständnis! LG M4T01"
-sleep 25 
+ 
 clear
 echo "Thanks for using m4t01's collection!"
-sleep 5
+sleep 5.0
 clear
 apt-get update
 apt-get upgrade
 apt-get install python
 apt-get install python2
 clear
-echo -e "$Purple Collection by m4t01 - Join my telegram t.me/moddingtool \e[1;34m"
+echo -e "$Purple List by m4t01 - Telegram t.me/moddingtool \e[1;34m"
        echo "Instagram : @wecrywiki"
 sleep 2.0
     echo -e " \e[96m  
@@ -38,12 +36,12 @@ echo " "
 figlet -f Bloody WeCry x PacMan Legion  | lolcat
 
     echo " "
-    echo -e "$Red                                 ⫸ Based on$Yellow faizan's code$Red ⫷\033[0m"
-    echo -e "$Red                               ⫸$Purple WeCry x PacMan Legion $Red ⫷\033[0m"
-    echo -e "$Red                                 ⫸ Collection by $Yellow m4t01$Red ⫷\033[0m"
+    echo -e "$Red                                 ⫸ Base:$Yellow faizan$Red ⫷\033[0m"
+    echo -e "$Red                               ⫸$Purple WeCry x M4T01$Red ⫷\033[0m"
+    echo -e "$Red                                 ⫸ List by $Yellow m4t01$Red ⫷\033[0m"
 echo " "
 echo -e " $Green     |---------------------------------------------------------------------|"
-echo -e " $Green     ||----------------------------$Cyan [Tools/Collection] $Green---------------------------||"
+echo -e " $Green     ||----------------------------$Cyan [List] $Green---------------------------||"
 echo -e " $Green     ||                                                                   ||"
 echo -e " $Green     ||             $Purple==>$Yellow[1] Insta information gathering$Green                    ||"
 echo -e " $Green     ||             $Purple==>️$Yellow[2] Insta brute force attack$Green                       ||"
