@@ -1,5 +1,5 @@
 ## About this tool collection 
-<font color="red>This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) </font>
+This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) 
 ,
 ## Features:
 
@@ -57,14 +57,14 @@
 <p align="center">
 <img width="95%" src="https://static.wikia.nocookie.net/kill-la-kill/images/9/9b/Ry%C5%ABko_Matoi_close-up.png/revision/latest/scale-to-width-down/1200?cb=20140211124359"\>
 
-##Need to Update/Reset the Tool.
+## Need to Update/Reset the Tool.
 type
 * `rm -rf instahacks`
 * `git clone https://github.com/drmatoi/instahacks`
 * `cd instahacks`
 * `bash insta-hack.sh`
 <br>
-##I will add this to the bash script soon!
+## I will add this to the bash script soon!
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
