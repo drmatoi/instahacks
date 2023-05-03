@@ -59,10 +59,10 @@ This Is an all in one hacking tool/collection for Instagram and other Social Med
 
 ##Need to Update/Reset the Tool.
 type
-* 'rm -rf instahacks'
-       *' git clone https://github.com/drmatoi/instahacks'
-        *'cd instahacks'
-       *' bash insta-hack.sh'
+* `rm -rf instahacks`
+       * ` git clone https://github.com/drmatoi/instahacks`
+        * `cd instahacks`
+       * ` bash insta-hack.sh`
 I will add this to the bash script soon!
 
 ## Warning:
