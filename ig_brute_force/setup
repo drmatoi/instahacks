@@ -7,16 +7,14 @@ center() {
 grn="\e[92m"
 cod="\e[93m"
 echo -e '\e[92m
-               ╦╔═╗  ╦ ╦╔═╗╔═╗╦╔═
-               ║║ ╦──╠═╣╠═╣║  ╠╩╗
-               ╩╚═╝  ╩ ╩╩ ╩╚═╝╩ ╩'
+               M4T01 x WeCry / Collection 
 echo -e "\e[92m"
 center "SETUP PROCESS"
 echo -e "
        $grn-----------------------------------$grn
-      |$grn FOLLLOW:$cod github.com/noob-hackers $grn |$grn
-      |$grn SUBSCRIBE:$cod Noob Hackers          $grn |$grn
-      |$grn CHAT:$cod wa.me/+919113948054        $grn |$grn
+      |$grn Telegram:$cod t.me/moddingtool $grn |$grn
+      |$grn SUBSCRIBE:$cod MatoiDE         $grn |$grn
+      |$grn Github:$cod github.com/drmatoi      $grn |$grn
        $grn-----------------------------------$grn
 "
 center "INSTALLATION"
@@ -44,9 +42,9 @@ FREE=`df -k /storage/emulated | awk '{ print $4 }' | tail -1`
 if [[ $FREE -gt 614400 ]]; then
 echo -e "\e[34mSTORAGE FOUND [\e[92m✓\e[34m]\e[92m"
 center "FINALIZING ALL PROCESS"
-echo -e "\e[91m              SUBSCRIBE\e[93m NOOB HACKERS\e[92m"
+echo -e "\e[91m              SUBSCRIBE\e[93m MatoiDE\e[92m"
 center "[X]COMPLETED SUCCESSFULLY[X]"
-am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
+am start -a android.intent.action.VIEW -d https://t.me/moddingtool
 rm setup
 cd ig_brute_force
 bash ighack.sh
