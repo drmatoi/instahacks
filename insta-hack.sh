@@ -51,7 +51,7 @@ echo -e " $Green     ||             $Purple==>$Yellow[6] Remove scripts$Green   
 echo -e " $Green     ||             $Purple==>$Yellow[7] About$Green                                          ||"
 echo -e " $Green     ||             $Purple==>$Yellow[8] exit$Green                                           ||"
 echo -e " $Green     ||             $Purple==>$Yellow[9] Venom Tool (370+)$Green                                           ||"
-echo -e " $Green     ||             $Purple==>$Yellow[999] Reset/Update Tool$Green                                           ||"
+echo -e " $Green                  $Purple==>$Yellow[999] Reset/Update Tool$Green                                           ||"
 echo -e " $Green     ||                                                                   ||"                                                                                       
 echo -e " $Green     ||---------------------------$Cyan [select option] $Green-----------------------||"
 echo -e " $Green     |---------------------------------------------------------------------|"
