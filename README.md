@@ -1,5 +1,5 @@
 ## About this tool collection 
-This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) 
+This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co. The complete collection layout is based on https://github.com/IncredibleHacker/insta-hack. This Tool also links to other GitHub Users. Full Credits to them :) I also added The "Venom" Tools, with this you have over 370+ Tools you can use!
 ,
 ## Features:
 
@@ -8,19 +8,22 @@ This Is an all in one hacking tool/collection for Instagram and other Social Med
 - Insta auto repoter
 - Remove script
 - WeCry Telegram List
+- Reset/Update script
+- about
+- Venom Tool (370+ Tools)
 
 ## Requirements
 - Data connection
-- Internet 200MB
-- storage 400MB
+- Internet min. 200MB
+- storage min 200MB
 - No Root
 
 ## Available On
 - Termux (tested on 04.05.23)
 - Kali Linux
 
-## Test On:
-- Termux
+## Tested On:
+- Termux (Android 13)
 - Mi Note 9 pro
 - Samsung Galaxy A22
 - Virtual Box 7.0
