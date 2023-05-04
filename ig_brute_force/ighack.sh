@@ -79,7 +79,7 @@ echo -e '\e[91m
 printf "\n"
 printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m MatoiDE \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 baner1(){
@@ -106,7 +106,7 @@ echo -e '\e[91m
 printf "\n"
 printf "                \e[101m\e[1;77m  >>  Script By N17R0 << \e[0m\n"
 printf "\n"
-printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m Noob Hackers \e[100m\e[1;77m << \e[0m\n"
+printf "       \e[100m\e[1;77m >>  Youtube Channel : \e[1;96m MatoiDE \e[100m\e[1;77m << \e[0m\n"
 printf "\n"
 }
 echo 
@@ -311,8 +311,8 @@ echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10
 echo -e "\e[93m         OOPS... I TALK A LOT SRY FOR THAT " | pv -qL 10
 echo -e "\e[93m              JOIN GROUPS ON \e[92mWHATS' APP" | pv -qL 10
-echo -e "\e[93m        MY WEBSITE:\e[92m www.noob-hackers.com\e[0m" | pv -qL 10
-echo -e "\e[93m        PRACTICAL VIDEOS:\e[92m www.noobhacktube.com\e[0m" | pv -qL 10
+echo -e "\e[93m        MY Telegram:\e[92m tor.me/moddingtool\e[0m" | pv -qL 10
+echo -e "\e[93m        PRACTICAL VIDEOS:\e[92m MatoiDE\e[0m" | pv -qL 10
 echo -e "\e[92m                BYEE.............." | pv -qL 10
 sleep 8.0
 baner1
