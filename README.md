@@ -67,7 +67,7 @@ type
 * `cd instahacks`
 * `bash insta-hack.sh`
 <br>
-I will add this to the bash script soon!
+Feature [999] is the same!
 
 ## Warning:
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
