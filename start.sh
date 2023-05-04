@@ -10,5 +10,6 @@
  Cyan="\033[1;36m"        # Cyan 
  White="\033[1;37m"       # White
 
-echo -e "$Cyan Penis \e[1;36m"
+clear
 echo "nnegaziprge in dein osch"
+loop
