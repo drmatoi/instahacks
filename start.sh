@@ -12,4 +12,3 @@
 
 clear
 echo "nnegaziprge in dein osch"
-loop
