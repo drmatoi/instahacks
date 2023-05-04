@@ -182,9 +182,9 @@ Instagram: @wecrywiki
         exit
 
 elif [ $ch -eq 9 ];then
-        git clone https://github.com/hackingmastert56/Venom-Tools-Installer
-        cd Venom-Tools-Installer
-  bash setup.sh
+        cd instahacks
+        bash venom.sh
+  
 
         exit
         
