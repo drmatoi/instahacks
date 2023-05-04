@@ -21,7 +21,7 @@ apt-get install python2
 clear
 echo -e "$Purple List by m4t01 - Telegram t.me/moddingtool \e[1;34m"
 echo "Instagram : @wecrywiki"
-sleep 2.0
+sleep 3.2
 clear
 echo -e "$Red List by m4t01 - Telegram t.me/moddingtool \e[1;31m"
     echo -e " \e[96m  
