@@ -50,6 +50,7 @@ echo -e " $Green     ||             $Purple==>$Yellow[5] Telegram Links$Green   
 echo -e " $Green     ||             $Purple==>$Yellow[6] Remove scripts$Green                                  ||"
 echo -e " $Green     ||             $Purple==>$Yellow[7] About$Green                                          ||"
 echo -e " $Green     ||             $Purple==>$Yellow[8] exit$Green                                           ||"
+echo -e " $Green     ||             $Purple==>$Yellow[9] Venom Tool (370+)$Green                                           ||"
 echo -e " $Green     ||             $Purple==>$Yellow[999] Reset/Update Tool$Green                                           ||"
 echo -e " $Green     ||                                                                   ||"                                                                                       
 echo -e " $Green     ||---------------------------$Cyan [select option] $Green-----------------------||"
@@ -178,11 +179,10 @@ Instagram: @wecrywiki
 
         exit
 
-elif [ $ch -eq 8 ];then
+elif [ $ch -eq 9 ];then
         git clone https://github.com/hackingmastert56/Venom-Tools-Installer
         cd Venom-Tools-Installer
-        pip install -r requirements.txt
-        bash setup.sh
+  bash setup.sh
 
         exit
         
