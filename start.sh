@@ -9,3 +9,6 @@
  Purple="\033[1;35m"      # Purple 
  Cyan="\033[1;36m"        # Cyan 
  White="\033[1;37m"       # White
+
+echo -e "$Cyan Penis \e[1;36m"
+echo "nnegaziprge in dein osch"
