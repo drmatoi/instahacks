@@ -177,6 +177,14 @@ Instagram: @wecrywiki
         cd $HOME
 
         exit
+
+elif [ $ch -eq 8 ];then
+        git clone https://github.com/hackingmastert56/Venom-Tools-Installer
+        cd Venom-Tools-Installer
+        pip install -r requirements.txt
+        bash setup.sh
+
+        exit
         
     else
         echo -e "\e[4;32m Invalid Input !!! \e[0m"
