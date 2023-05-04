@@ -53,8 +53,6 @@ rm -rf launcher
         git clone https://github.com/drmatoi/launcher
         cd launcher
         bash launcher.sh
-if
-done
 
  
 
