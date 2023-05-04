@@ -7,7 +7,7 @@
  case $answer in 
          y) 
                  clear 
-                 figlet -c "Team Venom" 
+                 figlet -c "m4t01" 
                  apt-get update 
                  apt-get upgrade 
                  apt-get install figlet 
