@@ -22,7 +22,7 @@
                  echo " " 
                  echo -e "\e[1;31m Going back to m4t01's collection \e[0m" 
  
-        cd instahacks
+       
         bash insta-hack.sh
                  exit 
                  ;; 
