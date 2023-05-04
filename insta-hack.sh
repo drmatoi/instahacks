@@ -11,7 +11,7 @@ Cyan="\033[1;36m"        # Cyan
 White="\033[1;37m"       # White
 
 echo -e "$Red Thanks for using m4t01's collection!\e[1;31m"
-echo -e "$Yellow This tool still has some bugs, I'm always trying to fix them please be patient. Your Dev :) \e[1;33m"
+echo -e "$Yellow This tool still has some bugs, I'm always trying  to fix them please be patient. Your Dev :) \e[1;33m"
 sleep 6
 clear
 apt-get update
