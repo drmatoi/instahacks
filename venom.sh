@@ -3,7 +3,7 @@
  clear 
  figlet -c "m4t01" 
  echo " " 
- read -p "Do you want to continue installing setup? [y/n] : " answer 
+ read -p "Do you want to install venom tools [y/n] : " answer 
  case $answer in 
          y) 
                  clear 
@@ -16,7 +16,10 @@
                  ;; 
          n) 
                  echo " " 
-                 echo -e "\e[1;31m Aborting the installation.... \e[0m" 
+                 echo -e "\e[1;31m Going back to m4t01's collection \e[0m" 
+ https://github.com/drmatoi/instahacks
+        cd instahacks
+        bash insta-hack.sh
                  exit 
                  ;; 
          *) 
