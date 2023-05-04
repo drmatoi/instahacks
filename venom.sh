@@ -7,6 +7,7 @@
  █▀▄▀█ █░█ ▀█▀ █▀█ ▄█ ▀▄▀ █░█ █▀▀ █▄░█ █▀█ █▀▄▀█
  █░▀░█ ▀▀█ ░█░ █▄█ ░█ █░█ ▀▄▀ ██▄ █░▀█ █▄█ █░▀░█
                                                                          " 
+echo "The Tool you enter now is created by Venom"
  read -p "Do you want to install venom tools [y/n] : " answer 
  case $answer in 
          y) 
