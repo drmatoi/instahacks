@@ -19,6 +19,9 @@ apt-get upgrade
 apt-get install python
 apt-get install python2
 clear
+echo -e "$Red Please visit my new website drmatoi.github.io - new projects and more! \e[1;33m"
+sleep 7
+clear
 echo -e "$Purple List by m4t01 - Telegram t.me/moddingtool \e[1;34m"
 echo "Instagram : @wecrywiki"
 sleep 3.2
