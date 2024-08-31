@@ -2,6 +2,7 @@
 This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co.<br> This Tool also links to other GitHub Users. Full Credits to them :) I also added The "Venom" Tools, with this you have over 370+ Tools you can use!
 
 21.11.2023 - The project will not be further developed or updated !!!
+UPDATE: 31.08.2024: TOOL DOES NOT WORK ANYMORE!
 
 ## Features:
 
