@@ -1,3 +1,9 @@
+THIS PROJECT IS NO LONGER BEING WORKED ON!!
+
+I'm tired of all the links & requests in the "Issue" section, I won't "hack" for anyone.
+
+I actually didn't want to archive the project, but I'll put that aside for now.
+
 ## Termux/Linux Tool Collection 380+
 This Is an all in one hacking tool/collection for Instagram and other Social Medias like Youtube,WhatsApp & Co.<br> This Tool also links to other GitHub Users. Full Credits to them :) I also added The "Venom" Tools, with this you have over 370+ Tools you can use!
 
